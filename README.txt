@@ -109,3 +109,5 @@ software:
    * camel-nagios can be configured for secure communications
    * camel-xmlsecurity can be configured for secure communications
 
+
+Join the chat at https://gitter.im/btd/camel
